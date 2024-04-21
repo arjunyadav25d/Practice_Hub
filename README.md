@@ -1,2 +1,2 @@
-# Practice_hub
-This is my practices repo 
+# Practice_Hub
+This is my practice repo 
